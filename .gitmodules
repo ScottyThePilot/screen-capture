@@ -1,0 +1,3 @@
+[submodule "screen-capture-sys/screen_capture_lite"]
+	path = screen-capture-sys/screen_capture_lite
+	url = https://github.com/ScottyThePilot/screen_capture_lite
